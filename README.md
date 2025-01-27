@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on a QA Engineer bootcamp through TripleTen
-- 🌱 I’m currently learning Autmoated Testing
+- 🌱 I’m currently learning Automated Testing
 - 🤔 I’m looking for help with getting my tech career started. Tips for entering the "real-world" of tech?
 - ⚡ Fun fact: Arthropods are my favorite pets! I currently have a scorpion and some beetles. Don't worry, I don't harbor bugs! These are true insects, not true bugs 🦂
 
