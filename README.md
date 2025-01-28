@@ -1,5 +1,5 @@
 <h1>Hi, I'm Josh!</h1> <br/><a href="https://github.com/Josh-Kleckner">Software QA Engineer</a>, <a href="https://www.linkedin.com/in/joshuakleckner/">Website & Hosting Business Owner</a>
-
+<br/>
 - 🔭 I’m currently seeking employment for Software QA
 - 🌱 I’m currently honing my Automated Testing skills
 - ⚡ Fun fact: Arthropods are my favorite pets! I currently have a scorpion and some beetles. Don't worry, I don't harbor bugs! These are true insects, not true bugs 🦂
