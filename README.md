@@ -16,7 +16,6 @@
   - [Urban Routes E2E Automated Testing](https://github.com/Josh-Kleckner/Urban-Routes-E2E-Automated-Testing)
 - <b>Comprehensive Testing Project</b>
   - [Urban Scooter Web App / Mobile App / API Testing](https://github.com/Josh-Kleckner/Urban-Scooters-Project)
-- 
 
 
 <h2>Connect with me:</h2>
