@@ -1,21 +1,23 @@
-## Hi there 👋
+<h1>Hi, I'm Josh! <br/><a href="https://github.com/Josh-Kleckner">Software QA Engineer</a>, <a href="https://www.linkedin.com/in/joshuakleckner/">Website & Hosting Business Owner</a>
 
-- 🔭 I’m currently working on a QA Engineer bootcamp through TripleTen
-- 🌱 I’m currently learning Automated Testing
-- 🤔 I’m looking for help with getting my tech career started. Tips for entering the "real-world" of tech?
+- 🔭 I’m currently seeking employment for Software QA
+- 🌱 I’m currently honing my Automated Testing skills
 - ⚡ Fun fact: Arthropods are my favorite pets! I currently have a scorpion and some beetles. Don't worry, I don't harbor bugs! These are true insects, not true bugs 🦂
 
-<!--
-**Josh-Kleckner/josh-kleckner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Software QA Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>API Testing</b>
+  - [Urban Grocers API Testing](https://github.com/Josh-Kleckner/Urban-Grocers-API-Testing)
+- <b>Automated Testing</b>
+  - [Urban Routes E2E Automated Testing](https://github.com/Josh-Kleckner/Urban-Routes-E2E-Automated-Testing)
+- <b>Comprehensive Testing Project</b>
+  - [Urban Scooter Web App / Mobile App / API Testing]
+  - *info coming soon*
+- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2>Connect with me:</h2>
+
+[<img align="left" alt="JoshKleckner | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/joshuakleckner/
