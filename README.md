@@ -16,7 +16,7 @@
   - [Urban Routes E2E Automated Testing](https://github.com/Josh-Kleckner/Urban-Routes-E2E-Automated-Testing)
 - <b>Comprehensive Testing Project</b>
   - [Urban Scooter Web App / Mobile App / API Testing](https://github.com/Josh-Kleckner/Urban-Scooters-Project)
-- <b>BugJam</b>
+- <b>BugJam Dec. 2024</b>
   - [Friendsgiving Web App | Team Bug Bash Blizzard](https://github.com/Josh-Kleckner/BugJam_Friendsgiving)
 
 
