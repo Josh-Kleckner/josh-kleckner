@@ -1,6 +1,6 @@
 <h1>Hi, I'm Josh!</h1> <br/>
 
-<a href="https://github.com/Josh-Kleckner">Software QA Engineer</a>, <a href="https://www.linkedin.com/in/joshuakleckner/">Website & Hosting Business Owner</a>, [Resume](./docs/joshuaKlecknerResume_2025.pdf)
+<a href="https://github.com/Josh-Kleckner">Software QA Engineer</a>, <a href="https://www.linkedin.com/in/joshuakleckner/" target="blank">Website & Hosting Business Owner</a>, <a href="./docs/joshuaKlecknerResume_2025.pdf" target="blank">Resume</a>
 <br/>
 
 - 🔭 I’m currently seeking employment for Software QA <br/>
