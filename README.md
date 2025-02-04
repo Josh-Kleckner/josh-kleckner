@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently seeking employment for Software QA <br/>
 - 🌱 I’m currently honing my Automated Testing skills <br/>
-- ⚡ Fun fact: Arthropods are my favorite pets! I currently have a scorpion and some beetles. Don't worry, I don't harbor bugs! These are true insects, not true bugs 🦂 <br/>
+- ⚡ Fun fact: Arthropods are my favorite pets! I currently have a scorpion and some beetles 🦂 <br/>
 
 
 <h2>Software QA Projects:</h2>
