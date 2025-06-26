@@ -10,7 +10,9 @@
 
 <h2>Software QA Projects:</h2>
 
-- <b>TaskTrain Externship</b> 02/25 - 04/25
+- <b>TaskTrain Externship</b> May 2025 - June 2025
+  - [TaskTrain Web App Testing as Senior Student](https://github.com/Josh-Kleckner/TaskTrain_EX15)
+- <b>TaskTrain Externship</b> February 2025 - April 2025
   - [TaskTrain Web App Testing](https://github.com/Josh-Kleckner/TaskTrain_EX12)
 - <b>API Testing</b>
   - [Urban Grocers API Testing](https://github.com/Josh-Kleckner/Urban-Grocers-API-Testing)
