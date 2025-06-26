@@ -10,6 +10,8 @@
 
 <h2>Software QA Projects:</h2>
 
+- <b>TaskTrain Externship</b> 02/25 - 04/25
+  - [Urban Grocers API Testing](https://github.com/Josh-Kleckner/TaskTrain_EX12)
 - <b>API Testing</b>
   - [Urban Grocers API Testing](https://github.com/Josh-Kleckner/Urban-Grocers-API-Testing)
 - <b>Automated Testing</b>
